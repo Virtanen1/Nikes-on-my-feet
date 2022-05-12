@@ -55,7 +55,7 @@ html {
   .menuItem {
     margin-right: 50px;
     cursor: pointer;
-    color: lightgray;
+    color: rgb(120, 9, 9);
     font-weight: 400;
   }
   
